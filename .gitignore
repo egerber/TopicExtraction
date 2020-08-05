@@ -2,3 +2,4 @@ _backups
 results
 data
 .ipynb*
+.xml
