@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12944d91-a885-48ba-a128-232e37305854" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596640785933</updated>
-      <workItem from="1596640787811" duration="633000" />
+      <workItem from="1596640787811" duration="689000" />
     </task>
     <task id="LOCAL-00001" summary="change README">
       <created>1596641158228</created>
@@ -47,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596641158228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change README">
+      <created>1596641428153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596641428153</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,17 +67,17 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2613" y="354" width="591" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596640979424" />
-    <state x="2452" y="100" width="912" height="905" key="CommitChangelistDialog2" timestamp="1596641158122">
+    <state x="2452" y="100" width="912" height="905" key="CommitChangelistDialog2" timestamp="1596641428096">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2452" y="100" width="912" height="905" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641158122" />
-    <state x="2508" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596641168745">
+    <state x="2452" y="100" width="912" height="905" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641428096" />
+    <state x="2508" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596641435739">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2508" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641168745" />
-    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1596641254130">
+    <state x="2508" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641435739" />
+    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1596641432258">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641254130" />
+    <state x="2576" y="257" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596641432258" />
   </component>
 </project>
