@@ -1,5 +1,5 @@
 _backups
 results
-data
+data/*
 .ipynb*
 .xml

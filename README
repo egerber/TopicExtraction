@@ -1,9 +1,1 @@
-#Installation
-
-Please run <code>install.sh</code>
-
-In order to run the notebook, you also need to download all data-files:
-<link>
-
-#Notebook
-Please visit the [!notebook](./TopicExtraction.ipynb)
+[Topic Extraction Notebook](TopicExtraction.ipynb)
